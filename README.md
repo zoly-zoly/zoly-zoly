@@ -30,13 +30,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=zoly-zoly&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=zoly-zoly&theme=merko&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zoly-zoly&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zoly-zoly&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ✍️ Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight))
